@@ -1,31 +1,12 @@
 
-function Titulo() {
-
-    const eventDig = () =>{
-        eventDig(e => e.target.value)
-
-    }
-
-    return(
-        <input onChange={eventDig}></input>
-        
-    ) 
-
-} 
-
-function Conteudo() {
-
-    return <textarea></textarea>
-
-} 
-
-function Botao(){
-    return <button>Criar Anotação</button>
-}
-
+import Titulo from "./Titulo"
+import { useState } from "react"
+import Conteudo from "./Conteudo"
+import Botao from "./Botao";
 
 
 function Formulario(){
+    const [form, setForm] = useState();
     
 
     return(
