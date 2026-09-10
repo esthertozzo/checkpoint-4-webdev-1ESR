@@ -6,8 +6,9 @@ function Titulo() {
     }
 
     return (
-        <input onChange={eventDig}></input>
+        <input value={eventDig}></input>
     )
 
 } 
+
 export default Titulo
