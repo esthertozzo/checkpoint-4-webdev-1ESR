@@ -1,8 +1,15 @@
 
 function Titulo() {
-    const titulo = '';
 
-    return <input value={titulo}></input>
+    const eventDig = () =>{
+        eventDig(e => e.target.value)
+
+    }
+
+    return(
+        <input onChange={eventDig}></input>
+        
+    ) 
 
 } 
 
@@ -25,10 +32,8 @@ function Formulario(){
         <>
         <h2>Nova Anotação</h2>
         <p>Titulo</p>
-        <br></br>
         <Titulo/>
         <p>Conteudo</p>
-        <br></br>
         <Conteudo/>
         <br></br>
         <Botao/>

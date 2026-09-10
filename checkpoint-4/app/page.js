@@ -1,4 +1,4 @@
-import Image from "next/image";
+"use client"
 import Formulario from "./components/Form";
 
 export default function Home() {
