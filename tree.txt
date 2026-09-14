@@ -1,0 +1,31 @@
+checkpoint-4/
+checkpoint-4/.gitignore (480b)
+checkpoint-4/app/
+checkpoint-4/app/components/
+checkpoint-4/app/components/Botao.js (166b)
+checkpoint-4/app/components/Conteudo.js (194b)
+checkpoint-4/app/components/Form.js (419b)
+checkpoint-4/app/components/Item.js (259b)
+checkpoint-4/app/components/Titulo.js (183b)
+checkpoint-4/app/favicon.ico (25931b)
+checkpoint-4/app/globals.css (0b)
+checkpoint-4/app/layout.js (624b)
+checkpoint-4/app/notes/
+checkpoint-4/app/notes/[id]/
+checkpoint-4/app/notes/[id]/page.js (2b)
+checkpoint-4/app/page.js (127b)
+checkpoint-4/eslint.config.mjs (400b)
+checkpoint-4/jsconfig.json (73b)
+checkpoint-4/next.config.mjs (144b)
+checkpoint-4/package-lock.json (235374b)
+checkpoint-4/package.json (470b)
+checkpoint-4/participantes.md (122b)
+checkpoint-4/postcss.config.mjs (94b)
+checkpoint-4/public/
+checkpoint-4/public/file.svg (391b)
+checkpoint-4/public/globe.svg (1035b)
+checkpoint-4/public/next.svg (1375b)
+checkpoint-4/public/vercel.svg (128b)
+checkpoint-4/public/window.svg (385b)
+gitcontext.txt (1109b)
+participantes.md (122b)

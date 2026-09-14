@@ -1,0 +1,36 @@
+# CONTEXTO GIT - 1ESR/esthertozzo-checkpoint-4-webdev-1ESR
+# Path: /Volumes/externo/FIAP/corretor-avaliacoes/turmas/2026/checkpoint-4/1ESR/esthertozzo-checkpoint-4-webdev-1ESR
+
+## git remote -v
+origin	https://github.com/esthertozzo/checkpoint-4-webdev-1ESR (fetch)
+origin	https://github.com/esthertozzo/checkpoint-4-webdev-1ESR (push)
+
+## git branch -a
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
+
+## git log --oneline -50 (default branch)
+2d434f5 Update participantes.md
+bdee8b7 Update participantes.md
+3229ae8 Component Item
+201aa2f criando components formulário
+5f5548e capturar digitação input
+b59507f Estrutura inicial do formulário
+14e3279 first commit
+
+## git shortlog -sn -e (HEAD)
+5	Laboratório FIAP <labsfiap@fiap.com.br>
+     2	Esther Tozzo <tozzo.est@gmail.com>
+
+## git log --oneline --graph --all -20
+* 2d434f5 Update participantes.md
+* bdee8b7 Update participantes.md
+* 3229ae8 Component Item
+* 201aa2f criando components formulário
+* 5f5548e capturar digitação input
+* b59507f Estrutura inicial do formulário
+* 14e3279 first commit
+
+## contagem de commits HEAD
+7
